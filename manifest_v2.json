@@ -31,36 +31,36 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-RW5RW6.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-RW5RW6-v2.bin"
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-RW5RW6.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-RW5RW6-v2.bin"
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-RW5RW6.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-RW5RW6-v2.bin"
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-10.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-10-v2.bin"
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-10.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-10-v2.bin"
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-9P10P.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-9P10P-v2.bin"
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-9.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-9-v2.bin"
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/AWOS-照片表盘-9P10P.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/AWOS-9P10P-v2.bin"
     }
   },
   "ext": {
