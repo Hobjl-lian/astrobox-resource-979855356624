@@ -26,7 +26,7 @@
     {
       "title": "点击此处了解详情",
       "url": "https://www.ifdian.net/item/aacfe164985411f1aef45254001e7c00?utm_source=copylink&utm_medium=link",
-      "icon": "ArrowBendRightUp"
+      "icon": "arrow-bend-right-up"
     }
   ],
   "downloads": {
@@ -61,6 +61,16 @@
     "xmb9p": {
       "version": "1.0.2",
       "file_name": "downloads/AWOS-9P10P-v3.bin"
+    },
+    "xmb11": {
+      "version": "1.0.4",
+      "file_name": "downloads/AWOS-1011-v3-xmb11.bin",
+      "versionCode": 65540
+    },
+    "xmb11nfc": {
+      "version": "1.0.4",
+      "file_name": "downloads/AWOS-1011-v3-xmb11nfc.bin",
+      "versionCode": 65540
     }
   },
   "ext": {
