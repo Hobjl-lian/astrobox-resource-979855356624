@@ -2,7 +2,7 @@
   "item": {
     "id": "979855356624",
     "restype": "watchface",
-    "name": "AWOS-照片表盘【安装我】",
+    "name": "AWOS-照片表盘",
     "description": "把回忆戴在手腕上。Apple Watch 同款照片表盘，来到你的小米穿戴设备。\n\n已在爱发电购买的用户请先绑定爱发电账号后来这里安装哦，未购买的用户可以点击上方爱发电链接了解表盘详情~",
     "preview": [
       "media/0.png",
@@ -31,46 +31,54 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-RW5RW6-v3.bin"
+      "version": "1.0.8",
+      "file_name": "downloads/AWOS-RW5RW6-v5.bin",
+      "versionCode": 65544
     },
     "xmrw5xring": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-RW5RW6-v3.bin"
+      "version": "1.0.8",
+      "file_name": "downloads/AWOS-RW5RW6-v5.bin",
+      "versionCode": 65544
     },
     "xmrw6": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-RW5RW6-v3.bin"
+      "version": "1.0.8",
+      "file_name": "downloads/AWOS-RW5RW6-v5.bin",
+      "versionCode": 65544
     },
     "xmb10": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-10-v3.bin"
+      "version": "1.0.6",
+      "file_name": "downloads/AWOS-1011-v5.bin",
+      "versionCode": 65542
     },
     "xmb10nfc": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-10-v3.bin"
+      "version": "1.0.6",
+      "file_name": "downloads/AWOS-1011-v5.bin",
+      "versionCode": 65542
     },
     "xmb10p": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-9P10P-v3.bin"
+      "version": "1.0.3",
+      "file_name": "downloads/AWOS-9P10P-v5.bin",
+      "versionCode": 65539
     },
     "xmb9": {
       "version": "1.0.2",
-      "file_name": "downloads/AWOS-9-v3.bin"
+      "file_name": "downloads/AWOS-9-v5.bin",
+      "versionCode": 65538
     },
     "xmb9p": {
-      "version": "1.0.2",
-      "file_name": "downloads/AWOS-9P10P-v3.bin"
+      "version": "1.0.3",
+      "file_name": "downloads/AWOS-9P10P-v5.bin",
+      "versionCode": 65539
     },
     "xmb11": {
-      "version": "1.0.4",
-      "file_name": "downloads/AWOS-1011-v3-xmb11.bin",
-      "versionCode": 65540
+      "version": "1.0.6",
+      "file_name": "downloads/AWOS-1011-v5.bin",
+      "versionCode": 65542
     },
     "xmb11nfc": {
-      "version": "1.0.4",
-      "file_name": "downloads/AWOS-1011-v3-xmb11nfc.bin",
-      "versionCode": 65540
+      "version": "1.0.6",
+      "file_name": "downloads/AWOS-1011-v5.bin",
+      "versionCode": 65542
     }
   },
   "ext": {
