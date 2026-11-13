@@ -31,29 +31,29 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.8",
-      "file_name": "downloads/AWOS-RW5RW6-v5.bin",
-      "versionCode": 65544
+      "version": "1.0.9",
+      "file_name": "downloads/AWOS-RW5RW6-v6.bin",
+      "versionCode": 65545
     },
     "xmrw5xring": {
-      "version": "1.0.8",
-      "file_name": "downloads/AWOS-RW5RW6-v5.bin",
-      "versionCode": 65544
+      "version": "1.0.9",
+      "file_name": "downloads/AWOS-RW5RW6-v6.bin",
+      "versionCode": 65545
     },
     "xmrw6": {
-      "version": "1.0.8",
-      "file_name": "downloads/AWOS-RW5RW6-v5.bin",
-      "versionCode": 65544
+      "version": "1.0.9",
+      "file_name": "downloads/AWOS-RW5RW6-v6.bin",
+      "versionCode": 65545
     },
     "xmb10": {
-      "version": "1.0.6",
-      "file_name": "downloads/AWOS-1011-v5.bin",
-      "versionCode": 65542
+      "version": "1.0.7",
+      "file_name": "downloads/AWOS-1011-v6.bin",
+      "versionCode": 65543
     },
     "xmb10nfc": {
-      "version": "1.0.6",
-      "file_name": "downloads/AWOS-1011-v5.bin",
-      "versionCode": 65542
+      "version": "1.0.7",
+      "file_name": "downloads/AWOS-1011-v6.bin",
+      "versionCode": 65543
     },
     "xmb10p": {
       "version": "1.0.3",
@@ -71,14 +71,14 @@
       "versionCode": 65539
     },
     "xmb11": {
-      "version": "1.0.6",
-      "file_name": "downloads/AWOS-1011-v5.bin",
-      "versionCode": 65542
+      "version": "1.0.7",
+      "file_name": "downloads/AWOS-1011-v6.bin",
+      "versionCode": 65543
     },
     "xmb11nfc": {
-      "version": "1.0.6",
-      "file_name": "downloads/AWOS-1011-v5.bin",
-      "versionCode": 65542
+      "version": "1.0.7",
+      "file_name": "downloads/AWOS-1011-v6.bin",
+      "versionCode": 65543
     }
   },
   "ext": {
